@@ -7,4 +7,4 @@
 -My projects
 [EMBED THE LINK](https://nabilah200701.github.io/telurdadar/) 
 
-![embed the image](https://1000logos.net/apple-logo/)
+![embed the image](https://1000logos.net/apple-logo/?raw=true)
